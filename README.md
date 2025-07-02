@@ -32,3 +32,7 @@ attention toward their studies.
 
 ## Project Flowchart:
 ![Project Flowchart](https://github.com/iinchan/EGT203_Mood-Zen-Assistant-Project/blob/main/EGT203_MoodZen%20Assistant%20FlowChart.jpg)
+
+## Pitching Slide:
+Refer to here for more details on the Mood Zen Assistant.
+![Pitching Slide](https://github.com/iinchan/EGT203_Mood-Zen-Assistant-Project/blob/main/EGT203_Engineering%20Design%20Pitching%20(Mood%20Zen%20Assistant).pptx)
