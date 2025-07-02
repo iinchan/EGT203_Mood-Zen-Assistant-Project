@@ -16,3 +16,18 @@ techniques, while concurrently providing comforting visual signals
 that can improve their mood and concentration. Thus, we hope to
 create a product that can enhance the students’ productivity and
 attention toward their studies.
+
+## Mood Zen Assistant Set-Up
+- Ear-clip Heart Rate Sensor (Grove)
+- LCD RGB Backlight
+- Buzzer (Grove)
+- LED Socket Kit (Grove)
+- Push Button (Grove)
+- Red Led (swappable)
+- Blue Led (swappable)
+- USB-C Cable
+- Mood Lamp (3D-printed)
+![MoodZen Assistant Setup](https://github.com/iinchan/EGT203_Mood-Zen-Assistant-Project/blob/main/EGT203_MoodZen%20Assistant%20Setup.jpg)
+
+## Project Flowchart:
+![Project Flowchart](https://github.com/iinchan/EGT203_Mood-Zen-Assistant-Project/blob/main/EGT203_MoodZen%20Assistant%20FlowChart.jpg)
