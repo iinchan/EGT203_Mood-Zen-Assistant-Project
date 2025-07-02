@@ -27,7 +27,9 @@ attention toward their studies.
 - Blue Led (swappable)
 - USB-C Cable
 - Mood Lamp (3D-printed)
+- 
 ![MoodZen Assistant Setup](https://github.com/iinchan/EGT203_Mood-Zen-Assistant-Project/blob/main/EGT203_MoodZen%20Assistant%20Setup.png)
 
 ## Project Flowchart:
+
 ![Project Flowchart](https://github.com/iinchan/EGT203_Mood-Zen-Assistant-Project/blob/main/EGT203_MoodZen%20Assistant%20FlowChart.jpg)
